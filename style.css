@@ -120,7 +120,7 @@
   padding: 32px 32px;
 }
 .banner {
-  background: url("/img/hero.png");
+  background: url("img/hero.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -139,7 +139,7 @@
   margin: 0px 110px;
 }
 .content_img {
-  background: url("/img/about.png");
+  background: url("img/about.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -166,14 +166,14 @@
   text-align: center;
 }
 .hero_img {
-  background: url("/img/hero.png");
+  background: url("img/hero.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   height: 400px;
 }
 .about_img {
-  background: url("/img/about.png");
+  background: url("img/about.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
